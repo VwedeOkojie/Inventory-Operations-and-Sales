@@ -64,3 +64,51 @@
 #### This suggests that purchases are made consistently on a daily basis by a large number of customers.
 #### The high frequency of daily purchases might indicate a steady flow of repeat customers or a consistent purchase pattern among the majority of customers.
 ![customer_frequency_distribution](https://github.com/VwedeOkojie/Inventory-Operations-and-Sales/assets/161823174/be1e8e5e-b72f-4c6b-a4f9-24de1f806865)
+
+
+### Inventory Analysis
+#### Category: The type of product or item category.
+#### Lead Time: The time (in days) it takes to receive the inventory from the supplier after placing an order.
+#### Order Cost: The cost associated with placing an order.
+#### Holding Cost: The cost to hold one unit of inventory for a given period.
+#### Average Daily Sales: The average number of units sold per day.
+#### Standard Deviation of Daily Sales (stddev_daily_sales): The standard deviation of daily sales, which measures the variability of daily sales.
+#### Lead Time Demand: The total demand during the lead time period.
+#### Safety Stock: The additional stock kept to mitigate the risk of stockouts due to variability in demand and supply lead time.
+#### Reorder Point: The inventory level at which a new order should be placed to replenish stock before it runs out.
+#### EOQ (Economic Order Quantity): The optimal order quantity that minimizes the total inventory costs (ordering and holding costs).
+#### Reorder Frequency Days: The frequency (in days) at which new orders should be placed.
+
+### Key Insights
+
+#### Clothing Category:
+
+#### High average daily sales (129 units) and a high lead time demand (1290 units).
+Requires a significant safety stock (114.01 units) to avoid stockouts.
+Optimal reorder point is 1404.01 units, with an EOQ of 2169.91 units.
+Orders need to be placed approximately every 16.82 days.
+
+#### Books Category:
+
+#### Lower average daily sales (18 units) and lower lead time demand (180 units) compared to clothing.
+Requires a safety stock of 45.71 units.
+Optimal reorder point is 225.71 units, with an EOQ of 810.56 units.
+Orders need to be placed approximately every 45.03 days.
+
+#### Cosmetics Category:
+
+#### Moderate average daily sales (57 units) and lead time demand (570 units).
+Requires a safety stock of 75.82 units.
+Optimal reorder point is 645.82 units, with an EOQ of 1442.39 units.
+Orders need to be placed approximately every 25.31 days.
+
+#### Food & Beverage Category:
+
+#### Similar average daily sales (55 units) and lead time demand (550 units) as cosmetics.
+Requires a safety stock of 73.3 units.
+Optimal reorder point is 623.3 units, with an EOQ of 1416.86 units.
+Orders need to be placed approximately every 25.76 days.
+![inventory_data_table](https://github.com/VwedeOkojie/Inventory-Operations-and-Sales/assets/161823174/49c5e91a-9d21-493d-87b7-b55f4d072cfb)
+
+
+
