@@ -60,11 +60,13 @@ To use this project, follow these steps:
     - [ ] Use libraries like Matplotlib and Seaborn to create visualizations based on your data analysis.
 
 ## Project Structure
-- [Datasets]() - Folder containing csv files to all datasets used in thids project
 - [Jupyter Notebook Script](https://github.com/VwedeOkojie/Inventory-Operations-and-Sales/blob/main/Jupyter%20Notebook%20Script.ipynb) - Jupyter Notebook for Python script
 - [README.md](https://github.com/VwedeOkojie/Inventory-Operations-and-Sales/blob/main/README.md) - Project overview and instructions `You are here`
 - [SQL Script](https://github.com/VwedeOkojie/Inventory-Operations-and-Sales/blob/main/SQL%20Script.sql) - Folder containing SQL scripts for data loading and analysis
-  
+- [customer_data.csv](https://github.com/VwedeOkojie/Inventory-Operations-and-Sales/blob/main/customer_data.csv)
+- [sales_data.csv](https://github.com/VwedeOkojie/Inventory-Operations-and-Sales/blob/main/sales_data.csv)
+- [inventory_data.csv](https://github.com/VwedeOkojie/Inventory-Operations-and-Sales/blob/main/inventory_data.csv)
+- [lead_data.csv](https://github.com/VwedeOkojie/Inventory-Operations-and-Sales/blob/main/lead_data.csv)
 
 ## Analysis & Insights
 ### Yearly Sales Trend
