@@ -36,22 +36,31 @@ The data processing steps involve:
 ## How to Use the Project
 To use this project, follow these steps:
 
-1. **Clone the Repository:**
-    ```sh
-    git clone https://github.com/your-username/inventory-data-analysis.git
-    ```
-2. **Navigate to the Project Directory:**
-    ```sh
-    cd inventory-data-analysis
-    ```
-3. **Install the Necessary Dependencies:**
-    ```sh
-    pip install -r requirements.txt
-    ```
-4. **Run the Analysis Scripts:**
-    Open the Jupyter Notebook `inventory_analysis.ipynb` and run the cells to generate the charts and tables.
+1. **Download Dataset**:
+    - [ ] Download the dataset from the provided link.
+
+2. **Create a Database in SQL**:
+    - [ ] Open your SQL server and create a new database.
+
+3. **Import Dataset to SQL**:
+    - [ ] Right-click the database.
+    - [ ] Go to Tasks.
+    - [ ] Select Import Flat File.
+    - [ ] Choose the location of the downloaded dataset and follow the prompts to import it.
+
+4. **Execute SQL Codes**:
+    - [ ] After importing the data, create and execute the necessary SQL queries to process and analyze the data.
+    - [ ] Save the results of your SQL queries to CSV files.
+
+5. **Import CSV to Python**:
+    - [ ] Open your Jupyter Notebook.
+    - [ ] Import the CSV files into Python using Pandas.
+
+6. **Create Visualizations in Jupyter Notebook**:
+    - [ ] Use libraries like Matplotlib and Seaborn to create visualizations based on your data analysis.
 
 ## Project Structure
+- [Datasets]() - Folder containing csv files to all datasets used in thids project
 - [Jupyter Notebook Script](https://github.com/VwedeOkojie/Inventory-Operations-and-Sales/blob/main/Jupyter%20Notebook%20Script.ipynb) - Jupyter Notebook for Python script
 - [README.md](https://github.com/VwedeOkojie/Inventory-Operations-and-Sales/blob/main/README.md) - Project overview and instructions `You are here`
 - [SQL Script](https://github.com/VwedeOkojie/Inventory-Operations-and-Sales/blob/main/SQL%20Script.sql) - Folder containing SQL scripts for data loading and analysis
