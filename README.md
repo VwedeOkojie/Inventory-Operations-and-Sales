@@ -64,29 +64,7 @@ To use this project, follow these steps:
 - [Jupyter Notebook Script](https://github.com/VwedeOkojie/Inventory-Operations-and-Sales/blob/main/Jupyter%20Notebook%20Script.ipynb) - Jupyter Notebook for Python script
 - [README.md](https://github.com/VwedeOkojie/Inventory-Operations-and-Sales/blob/main/README.md) - Project overview and instructions `You are here`
 - [SQL Script](https://github.com/VwedeOkojie/Inventory-Operations-and-Sales/blob/main/SQL%20Script.sql) - Folder containing SQL scripts for data loading and analysis
-
-## Contributions
-
-Contributions are welcome! If you would like to contribute, please follow these steps:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Commit your changes (`git commit -m 'Add some feature'`).
-5. Push to the branch (`git push origin feature-branch`).
-6. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact Information
-
-For any inquiries or questions, please contact:
-- **Vwede Okojie**
-- **vwedeokojie@gmail.com:** 
-- **[VwedeOkojie](https://github.com/VwedeOkojie):** 
-
-
+  
 
 ## Analysis & Insights
 ### Yearly Sales Trend
@@ -198,5 +176,23 @@ For any inquiries or questions, please contact:
   * Orders need to be placed approximately every 25.76 days.
 ![inventory_data_table](https://github.com/VwedeOkojie/Inventory-Operations-and-Sales/assets/161823174/49c5e91a-9d21-493d-87b7-b55f4d072cfb)
 
+## Contributions
 
+Contributions are welcome! If you would like to contribute, please follow these steps:
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes.
+4. Commit your changes (`git commit -m 'Add some feature'`).
+5. Push to the branch (`git push origin feature-branch`).
+6. Open a pull request.
+
+## License
+
+This project is licensed under the MIT License 
+
+## Contact Information
+
+For any inquiries or questions, please contact:
+- **Vwede Okojie**
+- **vwedeokojie@gmail.com:** 
 
