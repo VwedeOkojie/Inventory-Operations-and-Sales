@@ -50,7 +50,7 @@ To use this project, follow these steps:
 ## Project Structure
 - [Jupyter Notebook Script](https://github.com/VwedeOkojie/Inventory-Operations-and-Sales/blob/main/Jupyter%20Notebook%20Script.ipynb) - Jupyter Notebook for Python script
 - [README.md](https://github.com/VwedeOkojie/Inventory-Operations-and-Sales/blob/main/README.md) - Project overview and instructions `You are here`
-- [SQL Script] (https://github.com/VwedeOkojie/Inventory-Operations-and-Sales/blob/main/SQL%20Script.sql) - Folder containing SQL scripts for data loading and analysis
+- [SQL Script](https://github.com/VwedeOkojie/Inventory-Operations-and-Sales/blob/main/SQL%20Script.sql) - Folder containing SQL scripts for data loading and analysis
 
 ## Contributions
 
@@ -69,10 +69,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact Information
 
 For any inquiries or questions, please contact:
-- **Your Name**
-- **Email:** your-email@example.com
-- **GitHub:** [your-username](https://github.com/your-username)
-
+- **Vwede Okojie**
+- **vwedeokojie@gmail.com:** 
+- **[VwedeOkojie](https://github.com/VwedeOkojie):** 
 
 
 
