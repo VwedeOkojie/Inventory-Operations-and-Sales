@@ -45,10 +45,11 @@
 
 
 ### Customer Recency Distribution
-#### The data indicates that almost all customers have a frequency of 1 day between purchases.
-#### This suggests that purchases are made consistently on a daily basis by a large number of customers.
-#### The high frequency of daily purchases might indicate a steady flow of repeat customers or a consistent purchase pattern among the majority of customers.
-![customer_frequency_distribution](https://github.com/VwedeOkojie/Inventory-Operations-and-Sales/assets/161823174/be1e8e5e-b72f-4c6b-a4f9-24de1f806865)
+#### The distribution is fairly uniform, with a slight peak around the lower end.
+#### This indicates that customers are spread out evenly in terms of recency, with no significant clustering at any specific recency period.
+#### Understanding this distribution helps in planning marketing strategies for re-engagement.
+![customer_recency_distribution](https://github.com/VwedeOkojie/Inventory-Operations-and-Sales/assets/161823174/38234aea-c98a-484b-bd2c-c85dfd074e16)
+
 
 
 ### Customer Monetary Distribution
@@ -59,5 +60,7 @@
 
 
 ### Customer Frequency Distribution
-#### The Mall of Istanbul is the top-performing store, generating the highest sales.
-![customer_frequency_distribution](https://github.com/VwedeOkojie/Inventory-Operations-and-Sales/assets/161823174/72ac16be-cb73-4ca9-93c0-5b9868c824b4)
+#### The data indicates that almost all customers have a frequency of 1 day between purchases.
+#### This suggests that purchases are made consistently on a daily basis by a large number of customers.
+#### The high frequency of daily purchases might indicate a steady flow of repeat customers or a consistent purchase pattern among the majority of customers.
+![customer_frequency_distribution](https://github.com/VwedeOkojie/Inventory-Operations-and-Sales/assets/161823174/be1e8e5e-b72f-4c6b-a4f9-24de1f806865)
