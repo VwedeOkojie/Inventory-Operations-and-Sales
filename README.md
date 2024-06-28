@@ -219,5 +219,5 @@ This project is licensed under the MIT License
 
 For any inquiries or questions, please contact:
 - **Vwede Okojie**
-- **vwedeokojie@gmail.com:** 
+- **vwedeokojie@gmail.com** 
 
