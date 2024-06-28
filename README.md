@@ -102,7 +102,7 @@
   * Optimal reorder point is 645.82 units, with an EOQ of 1442.39 units.
   * Orders need to be placed approximately every 25.31 days.
 
-#### Food & Beverage Category:
+* #### Food & Beverage Category:
 
   * Similar average daily sales (55 units) and lead time demand (550 units) as cosmetics.
   * Requires a safety stock of 73.3 units.
