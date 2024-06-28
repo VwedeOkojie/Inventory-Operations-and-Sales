@@ -136,7 +136,7 @@ To use this project, follow these steps:
 
 
 ### Inventory Analysis
-'Category' 
+- 'Category' 
 * The type of product or item category.
 * 'Lead Time' The time (in days) it takes to receive the inventory from the supplier after placing an order.
 * 'Order Cost' The cost associated with placing an order.
