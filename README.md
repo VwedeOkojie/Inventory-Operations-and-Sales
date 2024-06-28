@@ -1,6 +1,8 @@
 # Inventory-Operations-and-Sales
 
 ## Insights
+### Yearly Sales Trend
+#### The Mall of Istanbul is the top-performing store, generating the highest sales.
 ![yearly_sales_trends](https://github.com/VwedeOkojie/Inventory-Operations-and-Sales/assets/161823174/aaf84414-c6a4-4f2c-8d53-88f1e3dbed87)
 ![total_sales_per_item](https://github.com/VwedeOkojie/Inventory-Operations-and-Sales/assets/161823174/5d665035-88d4-45d0-9b3f-4051bc41a4aa)
 ![top_performing_products](https://github.com/VwedeOkojie/Inventory-Operations-and-Sales/assets/161823174/854d182d-e67b-4131-a37e-de7ccc221695)
