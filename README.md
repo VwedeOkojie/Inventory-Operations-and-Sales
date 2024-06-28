@@ -2,6 +2,9 @@
 
 A comprehensive data analysis project focused on inventory data to derive insights into sales trends, inventory levels, and customer behavior.
 
+![image](https://github.com/VwedeOkojie/Inventory-Operations-and-Sales/assets/161823174/bd0ab24b-308a-41ff-a6a1-bfbecdfcbe4e)
+
+
 ## Project Description
 - Identify sales trends over time
 - Determine top-performing products
