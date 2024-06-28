@@ -14,6 +14,7 @@ The data used in this project was extracted from various sources and compiled in
 - `customer_data.csv`
 - `sales_data.csv`
 - `inventory_data.csv`
+- `lead_data.csv`
 
 ## Technologies Used
 The project utilizes the following technologies and tools:
