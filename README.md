@@ -14,10 +14,10 @@ A comprehensive data analysis project focused on inventory data to derive insigh
 
 ## Data Extraction
 The data used in this project was extracted from various sources and compiled into CSV files. The primary datasets include:
-- `customer_data.csv`
-- `sales_data.csv`
-- `inventory_data.csv`
-- `lead_data.csv`
+- [customer_data.csv](https://github.com/VwedeOkojie/Inventory-Operations-and-Sales/blob/main/customer_data.csv)
+- [sales_data.csv](https://github.com/VwedeOkojie/Inventory-Operations-and-Sales/blob/main/sales_data.csv)
+- [inventory_data.csv](https://github.com/VwedeOkojie/Inventory-Operations-and-Sales/blob/main/inventory_data.csv)
+- [lead_data.csv](https://github.com/VwedeOkojie/Inventory-Operations-and-Sales/blob/main/lead_data.csv)
 
 ## Technologies Used
 The project utilizes the following technologies and tools:
