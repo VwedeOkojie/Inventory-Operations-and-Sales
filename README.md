@@ -1,6 +1,81 @@
-# Inventory-Operations-and-Sales
+# Inventory, Operations & Sales Data Analysis
 
-## Insights
+A comprehensive data analysis project focused on inventory data to derive insights into sales trends, inventory levels, and customer behavior.
+
+## Project Description
+- Identify sales trends over time
+- Determine top-performing products
+- Evaluate sales performance by store location
+- Analyze customer purchasing behavior
+- Assess inventory turnover rates
+
+## Data Extraction
+The data used in this project was extracted from various sources and compiled into CSV files. The primary datasets include:
+- `customer_data.csv`
+- `sales_data.csv`
+- `inventory_data.csv`
+
+## Technologies Used
+The project utilizes the following technologies and tools:
+- **Python:** Programming language used for data processing and analysis.
+- **Pandas:** Data manipulation and analysis library.
+- **Matplotlib:** Visualization library for creating static plots.
+- **Seaborn:** Visualization library based on Matplotlib for attractive and informative statistical graphics.
+- **Jupyter Notebook:** Interactive environment for running the data analysis scripts.
+
+## Data Processing
+The data processing steps involve:
+1. **Data Cleaning:** Handling missing values, removing duplicates, and correcting data types.
+2. **Feature Engineering:** Creating new features such as `lead_time_demand`, `safety_stock`, and `reorder_point`.
+3. **Data Aggregation:** Summarizing data to derive meaningful insights.
+
+## How to Use the Project
+To use this project, follow these steps:
+
+1. **Clone the Repository:**
+    ```sh
+    git clone https://github.com/your-username/inventory-data-analysis.git
+    ```
+2. **Navigate to the Project Directory:**
+    ```sh
+    cd inventory-data-analysis
+    ```
+3. **Install the Necessary Dependencies:**
+    ```sh
+    pip install -r requirements.txt
+    ```
+4. **Run the Analysis Scripts:**
+    Open the Jupyter Notebook `inventory_analysis.ipynb` and run the cells to generate the charts and tables.
+
+## Project Structure
+- [README.md](https://github.com/VwedeOkojie/Inventory-Operations-and-Sales/blob/main/README.md) - Project overview and instructions `You are here`
+- [SQL Script] (https://github.com/VwedeOkojie/Inventory-Operations-and-Sales/blob/main/SQL%20Script.sql) - Folder containing SQL scripts for data loading and analysis
+
+## Contributions
+
+Contributions are welcome! If you would like to contribute, please follow these steps:
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes.
+4. Commit your changes (`git commit -m 'Add some feature'`).
+5. Push to the branch (`git push origin feature-branch`).
+6. Open a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact Information
+
+For any inquiries or questions, please contact:
+- **Your Name**
+- **Email:** your-email@example.com
+- **GitHub:** [your-username](https://github.com/your-username)
+
+
+
+
+## Analyis & Insights
 ### Yearly Sales Trend
 #### Sales were highest in 2021 and 2022, with over 30 million units sold each year.
 #### There is a significant drop in sales in 2023, indicating a potential issue or external factor affecting sales.
