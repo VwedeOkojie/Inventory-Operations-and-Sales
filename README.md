@@ -147,28 +147,28 @@ To use this project, follow these steps:
 Holding 
 
 **Cost** 
-The cost to hold one unit of inventory for a given period.
+* The cost to hold one unit of inventory for a given period.
 
 **Average Daily Sales**
-The average number of units sold per day.
+* The average number of units sold per day.
 
 **Standard Deviation of Daily Sales (stddev_daily_sales**
-The standard deviation of daily sales, which measures the variability of daily sales.
+* The standard deviation of daily sales, which measures the variability of daily sales.
 
 **Lead Time Demand**
-The total demand during the lead time period.
+* The total demand during the lead time period.
 
 **Safety Stock**
-The additional stock kept to mitigate the risk of stockouts due to variability in demand and supply lead time.
+* The additional stock kept to mitigate the risk of stockouts due to variability in demand and supply lead time.
 
 **Reorder Point**
-The inventory level at which a new order should be placed to replenish stock before it runs out.
+* The inventory level at which a new order should be placed to replenish stock before it runs out.
 
-**EOQ (Economic Order Quantity **
-The optimal order quantity that minimizes the total inventory costs (ordering and holding costs).
+**EOQ (Economic Order Quantity**
+* The optimal order quantity that minimizes the total inventory costs (ordering and holding costs).
 
-**Reorder Frequency Days **
-The frequency (in days) at which new orders should be placed.
+**Reorder Frequency Days**
+* The frequency (in days) at which new orders should be placed.
 
 ### Key Insights
 
