@@ -48,6 +48,7 @@ To use this project, follow these steps:
     Open the Jupyter Notebook `inventory_analysis.ipynb` and run the cells to generate the charts and tables.
 
 ## Project Structure
+- [Jupyter Notebook Script](https://github.com/VwedeOkojie/Inventory-Operations-and-Sales/blob/main/Jupyter%20Notebook%20Script.ipynb) - Jupyter Notebook for Python script
 - [README.md](https://github.com/VwedeOkojie/Inventory-Operations-and-Sales/blob/main/README.md) - Project overview and instructions `You are here`
 - [SQL Script] (https://github.com/VwedeOkojie/Inventory-Operations-and-Sales/blob/main/SQL%20Script.sql) - Folder containing SQL scripts for data loading and analysis
 
@@ -75,7 +76,7 @@ For any inquiries or questions, please contact:
 
 
 
-## Analyis & Insights
+## Analysis & Insights
 ### Yearly Sales Trend
 #### Sales were highest in 2021 and 2022, with over 30 million units sold each year.
 #### There is a significant drop in sales in 2023, indicating a potential issue or external factor affecting sales.
